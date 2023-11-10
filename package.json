@@ -4,6 +4,7 @@
   "description": "Server side of product-analyzer",
   "author": "Onur Ozkan",
   "license": "MIT",
+  "python": "/usr/bin/python3",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
