@@ -1,0 +1,12 @@
+{
+  "name": "feednext",
+  "version": "1.0.0",
+  "description": "<div>\r   <img src=\"https://raw.githubusercontent.com/feednext/feednext/master/server/public/logo-wide.png\" alt=\"Brand Logo\"/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "python": "/usr/bin/python3"
+}
